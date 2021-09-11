@@ -1,5 +1,4 @@
 # venmurasu-competition-solution
 
-##BLEU score :
 
-###Not Calcculated
+## BLEU score : Not Calcculated
